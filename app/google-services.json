@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "601867316700",
+    "firebase_url": "https://chatvilla-6ffe4.firebaseio.com",
+    "project_id": "chatvilla-6ffe4",
+    "storage_bucket": "chatvilla-6ffe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601867316700:android:288e22be9cf19b13",
+        "android_client_info": {
+          "package_name": "com.example.simant.chat_villa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601867316700-lagevthvvk11getumbmj2vls36oj8qgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simant.chat_villa",
+            "certificate_hash": "72fb2c7945dddfa5b4de0c573482280a205db52f"
+          }
+        },
+        {
+          "client_id": "601867316700-s14qe5egptubdpuofqrd6vg94ndms73h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMTEFOzoUimnP58asW0xZoGcnnhtJk7fM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601867316700-s14qe5egptubdpuofqrd6vg94ndms73h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
